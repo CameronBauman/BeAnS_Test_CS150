@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"hello world!\n";
+    cout<<"Catchfrase\n";
     return 0;
 }
