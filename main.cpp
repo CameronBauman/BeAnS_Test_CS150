@@ -10,7 +10,7 @@ int main()
     return 0;
 }
 
-beans()
+void beans()
 {
     cout << "beans\n";
 }
